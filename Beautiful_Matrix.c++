@@ -23,6 +23,11 @@ int main() {
     
     cout << n <<endl ;
     
+
+
+       string s ;
+       string x ;
+       x.compare(s);
     
     return 0;
 }
