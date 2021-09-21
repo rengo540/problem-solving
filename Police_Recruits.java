@@ -10,12 +10,12 @@ public class Police_Recruits {
 
         int n,hired=0,count=0;  
         n=input.nextInt();
-
+        int x ;
         
 
         for(int i=0 ;i<n;i++)
         {
-            int x ;
+            
             x=input.nextInt();
             if(x>0)
             {
